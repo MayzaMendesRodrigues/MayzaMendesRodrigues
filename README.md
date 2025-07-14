@@ -2,17 +2,15 @@
 
 Web Development :coffee:
 
-About me
-I am a web developer and I'm always learning. I am passionate about technology and innovation, and my main motivation is to create amazing experiences for users. With over two years of hands-on experience, I specialize in front-end and mobile development, combining creativity and attention to detail to build intuitive and responsive applications.
+I’m a web developer who is always learning. I'm passionate about technology and innovation, and my main motivation is to create amazing user experiences. With over two years of hands-on experience, I’ve been focusing on front-end and mobile development, combining creativity and attention to detail to build intuitive and responsive applications.
 
-In addition to technology, I love connecting with people. I am creative, communicative, and enjoy working in teams to turn ideas into reality. Traveling is also one of my big passions: exploring new places, learning about different cultures, and finding inspiration in every experience.
+Beyond technology, I love connecting with people. I’m creative, communicative, and enjoy working in teams to bring ideas to life. Traveling is also one of my biggest passions exploring new places, learning about different cultures, and finding inspiration in every experience.
 
-I have had the opportunity to participate in projects from conception to implementation, developing landing pages, integrating APIs, and creating responsive interfaces. I always seek to understand the needs of users to provide functional and efficient solutions. I also love participating in bootcamps, as I believe they are a great opportunity to accelerate learning and connect with other professionals.
+I’ve had the opportunity to be involved in projects from conception to implementation, developing landing pages, integrating APIs, and creating responsive interfaces. I always strive to understand users’ needs in order to deliver functional and efficient solutions. I also enjoy participating in bootcamps, as I believe they’re a great way to accelerate learning and connect with other professionals.
 
-My goal is to continue improving my skills and deepen my knowledge of modern technologies. In the short term, I aim to strengthen my skills in current frameworks and best development practices. In the long term, I would like to specialize even more in front-end development and contribute to high-impact projects, working with multidisciplinary teams to create innovative solutions.
+My goal is to keep growing as a developer and deepen my knowledge of modern technologies. In the short term, I aim to strengthen my skills in current frameworks and best development practices. In the long term, I hope to contribute to high-impact projects, collaborating with multidisciplinary teams to create innovative solutions.
 
-Technologies I use:
-Languages & Frameworks: JavaScript, React, React Native, CSS, Node.js, Express
+[![My Skills](https://skillicons.dev/icons?i=css,js,nodejs,figma,react,express,&theme=light)](https://skillicons.dev)
 
 Databases: SQL, NoSQL
 
