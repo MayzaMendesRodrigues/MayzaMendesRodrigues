@@ -10,7 +10,7 @@ I’ve had the opportunity to be involved in projects from conception to impleme
 
 My goal is to keep growing as a developer and deepen my knowledge of modern technologies. In the short term, I aim to strengthen my skills in current frameworks and best development practices. In the long term, I hope to contribute to high-impact projects, collaborating with multidisciplinary teams to create innovative solutions.
 
-[![My Skills](https://skillicons.dev/icons?i=css,js,nodejs,figma,react,express,&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css,js,nodejs,figma,react,ts,jest,express,&theme=light)](https://skillicons.dev)
 
 Databases: SQL, NoSQL
 
